@@ -2,5 +2,4 @@ node_modules
 package.json
 tailwind.config.js
 package-lock.json
-dist
 .vscode
